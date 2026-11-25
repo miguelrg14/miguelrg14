@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Miguel Rodríguez Gallego 👋🏻</h1>
 
 <p align="center">
-  <b>Game developer · Unity / C# · C++</b><br>
-  Gameplay, AI, UI and audio programming · Vigo, Spain · Open to relocation
+  <b>Game Developer & Software Engineer · Unity / C# · C++</b><br>
+  Gameplay, AI, Graphics Programming, UI and audio programming · Vigo, Spain · Open to relocation
 </p>
 
 <p align="center">
