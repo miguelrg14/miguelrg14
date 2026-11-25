@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Miguel Rodríguez Gallego 👋</h1>
+<h1 align="center">Hi, I'm Miguel Rodríguez Gallego 👋🏻</h1>
 
 <p align="center">
   <b>Game developer · Unity / C# · C++</b><br>
