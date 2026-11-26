@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Game Developer & Software Engineer · Unity / C# · C++</b><br>
-  Gameplay, AI, Graphics Programming, UI and audio programming · Vigo, Spain · Open to relocation
+  Gameplay, AI, Graphics Programming, UI and audio programming · Vigo, Spain
 </p>
 
 <p align="center">
@@ -95,5 +95,3 @@ I enjoy gameplay systems, game AI and the technical side of graphics. My project
 ![FL Studio](https://img.shields.io/badge/FL_Studio-F7941E?style=flat-square&logo=flstudio&logoColor=white)
 
 ---
-
-<p align="center"><i>Looking for my first role in games or software. Happy to talk — feel free to reach out!</i></p>
