@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://miguelrg14.github.io/"><img src="https://img.shields.io/badge/Portfolio-Website-0969DA?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://www.linkedin.com/in/miguel-rodr%C3%ADguez-gallego-0a4599239/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://miguel-rg14.itch.io/"><img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"></a>
   <a href="mailto:miguelrodriguezgallego1@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
